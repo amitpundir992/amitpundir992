@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif)](https://amitpundir.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQHCk3rDfH9W2w/article-cover_image-shrink_720_1280/0/1695023907274?e=2147483647&v=beta&t=BbP3VD0ykfk8cz2St8HaouU2S_GVQMLUlh8xy12swOI)](https://amitpundir.io)
 <h1 align="center">Hi 👋, I'm Amit Pundir</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
