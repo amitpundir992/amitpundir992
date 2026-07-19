@@ -1,225 +1,28 @@
-<div align="center">
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQHCk3rDfH9W2w/article-cover_image-shrink_720_1280/0/1695023907274?e=2147483647&v=beta&t=BbP3VD0ykfk8cz2St8HaouU2S_GVQMLUlh8xy12swOI)](https://amitpundir.io)
+<h1 align="center">Hi 👋, I'm Amit Pundir</h1>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
-# 👋 Hi, I'm Amit Pundir
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpundir992&label=Profile%20views&color=0e75b6&style=flat" alt="amitpundir992" /> </p>
 
-### Backend Engineer | Full Stack Developer | AI Enthusiast
+- 🌱 I’m currently learning **Node js**
 
-<p>
-Passionate about building scalable backend systems, modern web applications, and solving real-world problems through clean, efficient code.
-</p>
+- 💬 Ask me about **Backend**
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Engineer;Full+Stack+Developer;Node.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+- 📫 How to reach me **pundiramit06@gmail.com**
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=amitpundir992&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+- ⚡ Fun fact **I am funny**
 
-</div>
-
----
-
-# 🚀 About Me
-
-- 💻 Backend & Full Stack Developer
-- 🌍 Based in India
-- ❤️ Passionate about Backend Development, AI, and Cloud Technologies
-- 📚 Always learning new technologies and best practices
-- 🤝 Open to collaborating on Open Source and interesting projects
-- ⚡ Love solving challenging programming problems
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
-</p>
-
----
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
-</p>
-
----
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
-</p>
-
----
-
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase" />
-</p>
-
----
-
-## ☁️ DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,cloudflare" />
-</p>
-
----
-
-## 🤖 AI & Other Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions" />
-</p>
-
-- REST APIs
-- Better Auth
-- WebSockets
-- FFmpeg
-- Trigger.dev
-- Gemini AI
-- OpenAI API
-- OCR
-- Razorpay
-- Cron Jobs
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 Examora
-
-An AI-powered online examination platform featuring intelligent PDF parsing, OCR support, interactive exams, and analytics dashboards.
-
-**Tech Used**
-
-Next.js • TypeScript • PostgreSQL • Supabase • Gemini AI
-
----
-
-## 👶 Creche Management System
-
-A SaaS application featuring authentication, role-based access control, subscription management, analytics, audit logs, and real-time capabilities.
-
-**Highlights**
-
-- Role Based Access Control
-- Razorpay Integration
-- WebSockets
-- Analytics Dashboard
-- Audit Logs
-
----
-
-## 🌾 Farm Management System
-
-A complete agriculture management platform for managing farms, inventory, employees, reports, and daily operations.
-
----
-
-## 🌐 Portfolio Website
-
-A responsive portfolio showcasing projects, technical skills, and experience.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amitpundir992&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpundir992&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpundir992&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amitpundir992&theme=tokyonight&column=4&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpundir992&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/amitpundir992/amitpundir992/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:pundiramit06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://portfolio-amits-projects-d40c7b7e.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
-<a href="https://github.com/amitpundir992">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+<a href="https://linkedin.com/in/amit pundir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit pundir" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-# 📚 Currently Learning
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitpundir992&show_icons=true&locale=en&layout=compact" alt="amitpundir992" /></p>
 
-- Advanced System Design
-- Cloud Computing
-- AWS
-- Kubernetes
-- Distributed Systems
-- Microservices Architecture
-- Artificial Intelligence
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpundir992&show_icons=true&locale=en" alt="amitpundir992" /></p>
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpundir992&" alt="amitpundir992" /></p>
