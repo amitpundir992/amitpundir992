@@ -1,28 +1,121 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQHCk3rDfH9W2w/article-cover_image-shrink_720_1280/0/1695023907274?e=2147483647&v=beta&t=BbP3VD0ykfk8cz2St8HaouU2S_GVQMLUlh8xy12swOI)](https://amitpundir.io)
-<h1 align="center">Hi 👋, I'm Amit Pundir</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<!-- Modern GitHub Profile README -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpundir992&label=Profile%20views&color=0e75b6&style=flat" alt="amitpundir992" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Node js**
+# 👋 Hi, I'm Amit Pundir
 
-- 💬 Ask me about **Backend**
+### Full-Stack Developer | MERN Stack Enthusiast
 
-- 📫 How to reach me **pundiramit06@gmail.com**
+I build scalable web applications, backend systems, and AI-powered applications using modern JavaScript, TypeScript, Python, and database technologies.
 
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amit pundir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit pundir" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/amitpundir992">
+    <img src="https://komarev.com/ghpvc/?username=amitpundir992&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitpundir992&show_icons=true&locale=en&layout=compact" alt="amitpundir992" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpundir992&show_icons=true&locale=en" alt="amitpundir992" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpundir992&" alt="amitpundir992" /></p>
+* 💻 Full-Stack Developer focused on **backend and scalable web applications**
+* ⚙️ Experienced with **Node.js, Express.js, React.js, Next.js and TypeScript**
+* 🗄️ Work with **MongoDB, PostgreSQL, Supabase and Redis**
+* 🤖 Building **AI-powered applications** using Python, FastAPI and Gemini AI
+* 🔄 Interested in **real-time systems, APIs, SaaS platforms and automation**
+* 📫 Reach me at **[pundiramit06@gmail.com](mailto:pundiramit06@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+</p>
+
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma"/>
+</p>
+
+**Also worked with:** WebSockets • Socket.IO • RabbitMQ • FFmpeg • Razorpay • Supabase • Neon Postgres • Cloudflare R2 • AWS S3 • Redux • Mongoose • Gemini AI
+
+---
+
+## 🔥 What I Like Building
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   🌐 Full-Stack Applications                         │
+│   ⚙️  Backend APIs & Services                        │
+│   🤖 AI-Powered Applications                          │
+│   🔄 Real-Time Systems                               │
+│   📦 SaaS Platforms                                  │
+│   🎥 Media Processing & Streaming                    │
+│   🚀 Developer & Workflow Automation                 │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amit-pundir/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:pundiramit06@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Build • Learn • Improve • Repeat
+
+⭐ If you find something interesting in my repositories, feel free to explore!
+
+</div>
